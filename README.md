@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=F7D900&center=true&vCenter=true&width=500&height=50&lines=User+Experience+Enthusiast;Web+Designer;Front+End+Developer;CSBS+student" />
 </p>
-<h1 align="center">Hello, I'm Harini K M👋</h1>
 <h3 align="center">Frontend Designer | Web Developer | Tech & Business Enthusiast | Crafting Engaging UI/UX</h3>
 
 - 🔭 I’m currently working on [PEC Hacks](https://github.com/harini12km/PEC-hacks.git)
