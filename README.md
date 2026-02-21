@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Figma, Framer**
 
-- 📫 How to reach me **manimarndheebha@gmail.com**
+- 📫 How to reach me **harinimanimaran20@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fVvYOGXO5zEgKMgZIO0HXrVnuPlfHcRm/view?usp=sharing](https://drive.google.com/file/d/1fVvYOGXO5zEgKMgZIO0HXrVnuPlfHcRm/view?usp=sharing)
 
