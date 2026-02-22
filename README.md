@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **harinimanimaran20@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fVvYOGXO5zEgKMgZIO0HXrVnuPlfHcRm/view?usp=sharing](https://drive.google.com/file/d/1fVvYOGXO5zEgKMgZIO0HXrVnuPlfHcRm/view?usp=sharing](https://drive.google.com/file/d/1fZuHVJz2iCXZpyUjzyElzoufj7ipHdQ3/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1fZuHVJz2iCXZpyUjzyElzoufj7ipHdQ3/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
